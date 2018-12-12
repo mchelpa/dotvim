@@ -4,3 +4,9 @@
 [submodule "bundle/latex-live-preview"]
 	path = bundle/latex-live-preview
 	url = https://github.com/xuhdev/vim-latex-live-preview.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
