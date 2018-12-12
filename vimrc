@@ -1,6 +1,7 @@
 execute pathogen#infect()
 
 set number
+syntax on
 
 " Python PEP8 standard:
 set tabstop=4
