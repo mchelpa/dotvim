@@ -7,6 +7,5 @@
 
 #### Windows
     git clone https://github.com/mchelpa/dotvim.git %HOME%\vimfiles
-    ln -s %HOME%\vimfiles\vimrc %HOME%\_vimrc
-    ln -s %HOME%\vimfiles\gvimrc %HOME%\_gvimrc
-    ln -s %HOME%\vimfiles %HOME%\.vim
+    mklink %HOME%\_vimrc %HOME%\vimfiles\vimrc 
+    mklink %HOME%\_gvimrc %HOME%\vimfiles\gvimrc 
