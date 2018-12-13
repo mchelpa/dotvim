@@ -13,3 +13,6 @@
 [submodule "bundles\\polyglot"]
 	path = bundles\\polyglot
 	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "bundle\\flake8"]
+	path = bundle\\flake8
+	url = https://github.com/nvie/vim-flake8
